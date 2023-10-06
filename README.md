@@ -1,1 +1,1 @@
-# Software Construction Lab3
+# Software Construction: Lab 3
